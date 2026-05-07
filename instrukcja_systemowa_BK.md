@@ -63,7 +63,7 @@ Hubert Sobczak         — Fullstack Developer
 
 | Rola | Stawka wewnętrzna netto/h | Stawka klientowa netto/h |
 |------|---------------------------|--------------------------|
-| Project Manager | 85 PLN                    | 150 PLN                  |
+| Project Manager | 95 PLN                    | 150 PLN                  |
 | UX/UI Designer | 105 PLN                   | 150 PLN                  |
 | Frontend Developer | 50 PLN                    | 120 PLN                  |
 | Backend Developer | 75 PLN                    | 140 PLN                  |
